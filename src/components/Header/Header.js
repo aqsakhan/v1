@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { GiHamburgerMenu } from 'react-icons/gi';
 import { ImCross } from 'react-icons/im';
 import { Container, Logo, Div1, Div2, List, ListItem, NavLink, ResumeBtn } from './HeaderStyles';
-
+import Avatar from '../images/avatar.png';
 
 const Header = () =>  {
 
@@ -21,7 +21,7 @@ const Header = () =>  {
   <Container>
     <Div1>
       <a href='/' style={{ display: 'flex', alignItems: 'center', color:"$(props) => props.theme.colors.primary2", gap:"15px", fontSize:"20px"}}>
-        <Logo src="/images/avatar.png" alt="logo" /> Aqsa Khan
+        <Logo src={Avatar} alt="logo" /> Aqsa Khan
       </a>
     </Div1>
     <Div2 open = {open} onClick={ () => setOpen(!open) }> 
