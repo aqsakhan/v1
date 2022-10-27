@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { Link as LinkS } from 'react-scroll';
 
 export const Logo = styled.img`
   height: 55px;
@@ -105,7 +106,7 @@ export const ListItem = styled.li`
 
 // Navigation Links
 
-export const NavLink = styled.a`
+export const NavLink = styled(LinkS)`
   font-size: 2rem;
   line-height: 32px;
   transition: 0.4s ease;
