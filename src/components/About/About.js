@@ -2,6 +2,7 @@ import React from 'react';
 import { AboutContent, AboutText, LeftSection, RightSection } from './AboutStyles';
 import { Section, SectionTitle, SectionDivider } from '../../styles/GlobalComponents';
 import Fade from 'react-reveal/Fade';
+import MyImg from '../images/my-img.jpg';
 
 const About = () => {
   return (
@@ -23,7 +24,7 @@ const About = () => {
         </Fade>
         <Fade right big cascade>
             <RightSection>
-                <img src="/images/my-img.jpg" alt="aqsakhan"/>
+                <img src={MyImg} alt="aqsakhan"/>
             </RightSection>
         </Fade>
         </AboutContent>
