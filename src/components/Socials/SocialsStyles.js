@@ -22,12 +22,12 @@ export const Content = styled.div`
 export const VerticalLine = styled.div`
     border-left: 4px solid ${props => props.theme.colors.links};
     border-radius: 20px;
-    height: 120px;
+    height: 100px;
     margin-top: 2rem;
 `;
 
 export const SocialsLinks = styled.a`
-    margin-top: 1.8rem;
+    margin-top: 1rem;
     border: none;
     img {
         height: 4rem;
