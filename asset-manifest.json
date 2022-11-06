@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/v2/static/css/main.24082e6b.css",
+    "main.js": "/v2/static/js/main.4c69f4c2.js",
+    "static/js/787.970b0ffa.chunk.js": "/v2/static/js/787.970b0ffa.chunk.js",
+    "static/media/5.PNG": "/v2/static/media/5.76a9ba699896beef804f.PNG",
+    "static/media/4.PNG": "/v2/static/media/4.7132f2a20a28ec5ff954.PNG",
+    "static/media/1.PNG": "/v2/static/media/1.27693226edf360724ed0.PNG",
+    "static/media/my-img.jpg": "/v2/static/media/my-img.fcc2cccdf16adfb527d2.jpg",
+    "static/media/3.png": "/v2/static/media/3.ae46f939c9953fbb6d85.png",
+    "static/media/avatar.png": "/v2/static/media/avatar.fcb7f2eff62713be3955.png",
+    "static/media/icons8-discord.svg": "/v2/static/media/icons8-discord.65e7396fefa75ef6f4489c1c7bfbcab3.svg",
+    "static/media/icons8-github.svg": "/v2/static/media/icons8-github.aa7fbf40af94c175d12e1401bd6708a9.svg",
+    "static/media/icons8-mail.svg": "/v2/static/media/icons8-mail.df17ad6fb72f7cbdec6cac53ba4ea91d.svg",
+    "static/media/icons8-twitter.svg": "/v2/static/media/icons8-twitter.67accab90b6783521da83a6496f542ce.svg",
+    "index.html": "/v2/index.html",
+    "static/media/icons8-linkedin.svg": "/v2/static/media/icons8-linkedin.6c4d15630c56f54b4da90a74d5ca03c7.svg",
+    "main.24082e6b.css.map": "/v2/static/css/main.24082e6b.css.map",
+    "main.4c69f4c2.js.map": "/v2/static/js/main.4c69f4c2.js.map",
+    "787.970b0ffa.chunk.js.map": "/v2/static/js/787.970b0ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24082e6b.css",
+    "static/js/main.4c69f4c2.js"
+  ]
+}
